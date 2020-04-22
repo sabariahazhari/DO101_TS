@@ -1,1 +1,1 @@
-console.log("React like master branch\n");
+console.log("React like master branchs!\n");
